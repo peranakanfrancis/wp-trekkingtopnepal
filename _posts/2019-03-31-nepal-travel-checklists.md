@@ -19,7 +19,7 @@ Nepal typically has four seasons i.e <strong>Spring, Monsoon Autumn, and Winter.
 
 During Spring season (March, April, May) the days tend to be slightly warmer, which makes your body temperature decent while you are walking all the way up. The nights are a bit colder than days. It is considered as the second-best season for trekking in Nepal.
 
-Monsoon season generally covers the months of June, July, and August. During this time, the days are sunny and quiet longer. There is a frequent chance of raining. There is a balance between days and nights.
+Monsoon season generally covers the months of June, July, and August. During this time, the days are sunny and quiet longer. There is a frequent chance of raining. Weather condition is balanced between days and nights.
 
 Autumn season is the best season to travel to Nepal. It normally comprises of September, October, and November.<span style="font-weight: 400;"> The snowline remains up to </span><b>5000m</b><span style="font-weight: 400;">. The days are slightly warmer.</span>
 
