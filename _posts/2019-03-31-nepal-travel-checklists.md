@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2019-03-31 10:36:13
 ---
-There are a few things you need to care about before you depart Nepal from your homeland. Packing lists for trekking or tour and flight departure dates are major important things.
+There are a few things that you need to care about before you depart Nepal from your homeland. Packing lists for trekking or tour and flight departure dates are major important things.
 
 You need to collect adequate information about what to pack and what to prevent. Due to misleading information, sometimes can lead to a wrong decision and can affect your holidays as well. So, it is very important to know about the Nepal Trekking packing lists.
 
