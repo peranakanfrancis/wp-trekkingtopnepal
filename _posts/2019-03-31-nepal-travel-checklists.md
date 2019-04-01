@@ -72,6 +72,6 @@ Autumn season is the best season to travel to Nepal. It normally comprises of Se
 
 <span style="font-weight: 400;">If carrying all these gear lists are not practical, there is possible to buy or rent things in Kathmandu or Pokhara.</span>
 
-For more: You are welcome to ask any type of questions via <a href="mailto:info@oshoadventure.com">info@oshoadventure.com</a>.
+<strong>For more: You are welcome to ask any type of questions via</strong> <a href="mailto:info@oshoadventure.com">info@oshoadventure.com</a>.
 
 &nbsp;
