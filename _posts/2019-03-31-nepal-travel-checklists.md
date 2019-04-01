@@ -5,7 +5,7 @@ author: Manisha Bagale
 post_excerpt: ""
 layout: post
 permalink: >
-  https://trekkingtopnepal.com/2019/03/31/nepal-travel-checklists/
+  http://trekkingtopnepal.com/2019/03/31/nepal-travel-checklists/
 published: true
 post_date: 2019-03-31 10:36:13
 ---
@@ -70,6 +70,8 @@ Autumn season is the best season to travel to Nepal. It normally comprises of Se
 </ul>
 <i><span style="font-weight: 400;">Note: For mountain Expedition, you have to ask your tour operator agency about all the important gear lists for packing to make your journey successful. </span></i>
 
-<span style="font-weight: 400;">If carrying all these gear lists are not practical, there is possible to buy or rent these things in Kathmandu or Pokhara.</span>
+<span style="font-weight: 400;">If carrying all these gear lists are not practical, there is possible to buy or rent things in Kathmandu or Pokhara.</span>
+
+For more: You are welcome to ask any type of questions via <a href="mailto:info@oshoadventure.com">info@oshoadventure.com</a>.
 
 &nbsp;
