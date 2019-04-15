@@ -8,7 +8,7 @@ permalink: http://trekkingtopnepal.com/test/
 published: true
 post_date: 2019-04-15 13:38:35
 ---
-<div id="bokun-w51191_9cdae1b8_5adf_4a28_a5c9_a7cac64a6329">Loading...</div><script type="text/javascript">
+<div id="bokun-w51191_9cdae1b8_5adf_4a28_a5c9_a7cac64a6329">Getting trip info...</div><script type="text/javascript">
 var w51191_9cdae1b8_5adf_4a28_a5c9_a7cac64a6329;
 (function(d, t) {
   var host = 'widgets.bokun.io';
