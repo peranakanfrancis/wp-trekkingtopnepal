@@ -7,7 +7,7 @@ author: Manisha Bagale
 post_excerpt: ""
 layout: post
 permalink: >
-  http://trekkingtopnepal.com/2019/04/18/6-reasons-why-you-should-do-homestay-treks-in-nepal/
+  https://trekkingtopnepal.com/2019/04/18/6-reasons-why-you-should-do-homestay-treks-in-nepal/
 published: true
 post_date: 2019-04-18 17:08:14
 ---

@@ -4,7 +4,7 @@ post_title: Test
 author: peranakan francis
 post_excerpt: ""
 layout: page
-permalink: http://trekkingtopnepal.com/test/
+permalink: https://trekkingtopnepal.com/test/
 published: true
 post_date: 2019-04-15 13:38:35
 ---

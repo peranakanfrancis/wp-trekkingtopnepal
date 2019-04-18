@@ -4,7 +4,7 @@ post_title: test hotel
 author: peranakan francis
 post_excerpt: ""
 layout: page
-permalink: http://trekkingtopnepal.com/test-hotel/
+permalink: https://trekkingtopnepal.com/test-hotel/
 published: true
 post_date: 2019-04-15 16:29:49
 ---

@@ -5,7 +5,7 @@ author: Manisha Bagale
 post_excerpt: ""
 layout: post
 permalink: >
-  http://trekkingtopnepal.com/2019/03/31/nepal-travel-checklists/
+  https://trekkingtopnepal.com/2019/03/31/nepal-travel-checklists/
 published: true
 post_date: 2019-03-31 10:36:13
 ---

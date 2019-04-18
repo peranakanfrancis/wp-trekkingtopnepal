@@ -12,7 +12,7 @@ post_excerpt: >
   Glacier in the South-East.
 layout: post
 permalink: >
-  http://trekkingtopnepal.com/2012/08/01/mt-baruntse-expedition/
+  https://trekkingtopnepal.com/2012/08/01/mt-baruntse-expedition/
 published: true
 post_date: 2012-08-01 09:50:59
 ---
