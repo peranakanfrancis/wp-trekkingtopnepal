@@ -19,6 +19,8 @@ If you dare to do Homestay Trek in Monsoon season, you will have ample opportuni
 
 <em>Here are some reasons why you should choose <strong>homestay treks</strong> in Nepal:</em>
 <h2><strong>Know the Real Nepal</strong></h2>
+&nbsp;
+
 The homestay tour will give you the real taste of Nepal. Living in the house made up of stones and tiles watching day-to-day activities of local people either cutting grass on the fields or taking cattle for grazing nearby hills, people living a simple life even with eyes full of happiness and pride, is the way how to get to know the true essence of people residing behind the modern development of Nepal.
 
 The life you see here is completely away from modernization. People have no further hope of earning a better modern life as they choose to live a life of peace and self-esteem in the village without much struggle and shortages.
