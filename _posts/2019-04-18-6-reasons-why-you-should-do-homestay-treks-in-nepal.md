@@ -1,13 +1,13 @@
 ---
 ID: 7431
 post_title: >
-  11 Reasons Why Should You Do Homestay
-  Tourism in Nepal
+  11 Reasons to Choose Homestay Over
+  Hotels in Nepal
 author: Manisha Bagale
 post_excerpt: ""
 layout: post
 permalink: >
-  https://trekkingtopnepal.com/2019/04/18/6-reasons-why-you-should-do-homestay-treks-in-nepal/
+  http://trekkingtopnepal.com/2019/04/18/6-reasons-why-you-should-do-homestay-treks-in-nepal/
 published: true
 post_date: 2019-04-18 17:08:14
 ---
