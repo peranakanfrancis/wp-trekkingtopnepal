@@ -13,10 +13,6 @@ post_date: 2019-04-18 17:08:14
 ---
 Nepal’s diverse population with equally varying traditional and cultural approaches can best be explored with interaction with the local population to learn about their lifestyle and enjoy age-old traditions best fits the equation when travelers can live together with the local people. Homestay tourism is best suited for this purpose.
 
-&nbsp;
-
-[caption id="attachment_7844" align="alignnone" width="1600"]<img class="size-full wp-image-7844" src="http://trekkingtopnepal.com/wp-content/uploads/2019/03/16127656344_5ad97bec54_h.jpg" alt="" width="1600" height="1200" data-wp-pid="7844" /> A traditional small village in Kaski District, Western Nepal[/caption]
-
 Autumn season would be the best season to do a homestay trek. Generally, the main festival of Nepalese people- Teej, Dashain, and Tihar falls in this season. You will have a wonderful opportunity to celebrate these great festivals with local people.
 
 If you dare to do Homestay Trek in Monsoon season, you will have ample opportunities to join the national crop plantation day. People most of the time spend their time in their fields, cropping, and enjoy eating delicious traditional dishes.
