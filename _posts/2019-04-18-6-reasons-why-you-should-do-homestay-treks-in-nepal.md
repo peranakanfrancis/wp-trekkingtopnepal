@@ -1,8 +1,8 @@
 ---
 ID: 7431
 post_title: >
-  11 Reasons Why Should You Do Homestay
-  Tourism in Nepal
+  11 Reasons to Choose Homestay Over
+  Hotels
 author: Manisha Bagale
 post_excerpt: ""
 layout: post
