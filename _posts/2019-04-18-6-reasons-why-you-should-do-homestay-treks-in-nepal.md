@@ -17,7 +17,7 @@ Autumn season would be the best season to do a homestay trek. Generally, the mai
 
 If you dare to do Homestay Trek in Monsoon season, you will have ample opportunities to join the national crop plantation day. People most of the time spend their time in their fields, cropping, and enjoy eating delicious traditional dishes.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KLnKWbP2d0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1500" height="1000" src="https://www.youtube.com/embed/6KLnKWbP2d0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <em>Here are some reasons why you should choose <strong>homestay treks</strong> in Nepal:</em>
 <h2><strong>Know the Real Nepal</strong></h2>
