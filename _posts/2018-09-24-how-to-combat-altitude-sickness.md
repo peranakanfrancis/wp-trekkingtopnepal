@@ -9,7 +9,7 @@ post_excerpt: >
   acclimatize your body.
 layout: post
 permalink: >
-  https://trekkingtopnepal.com/2018/09/24/love-water-sports/
+  https://trekkingtopnepal.com/2018/09/24/how-to-combat-altitude-sickness/
 published: true
 post_date: 2018-09-24 16:48:46
 ---
