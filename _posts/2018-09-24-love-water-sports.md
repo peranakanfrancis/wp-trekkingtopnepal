@@ -21,6 +21,7 @@ post_date: 2018-09-24 16:48:46
 <p>During the trekking, trekkers will feel that their breathing increases with decrease in oxygen. If they continue trekking without taking a rest, they might be victim of Altitude Sickness. Altitude Sickness happens when fluid collects in cell around the body as the result of failure to acclimatize. More deadly result can be happen when fluid builds subsequently in the lungs and brain.<br></p>
 <!-- /wp:paragraph -->
 
+[embed]https://www.youtube.com/watch?v=nVuxnXGLNhE[/embed]
 <!-- wp:heading {"level":3} -->
 <h3>Acute Mountain Sickness Symptoms</h3>
 <!-- /wp:heading -->
