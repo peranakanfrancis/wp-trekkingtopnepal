@@ -22,6 +22,8 @@ post_date: 2018-09-24 16:48:46
 <!-- /wp:paragraph -->
 
 [embed]https://www.youtube.com/watch?v=nVuxnXGLNhE[/embed]
+<p>A Malaysian climber recently was left on Annapurna Base Camp overnight and found alive. Watch how he survives.</p>
+
 <!-- wp:heading {"level":3} -->
 <h3>Acute Mountain Sickness Symptoms</h3>
 <!-- /wp:heading -->
