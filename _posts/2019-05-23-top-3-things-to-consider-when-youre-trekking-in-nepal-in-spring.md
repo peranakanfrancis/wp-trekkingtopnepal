@@ -9,9 +9,9 @@ permalink: >
 published: true
 post_date: 2019-05-23 13:50:36
 ---
-<img class="alignnone size-full wp-image-7373" src="http://54.161.43.112/wp-content/uploads/2019/04/8449549937_808f016bd1_o.jpg" alt="" width="1365" height="1024" data-wp-pid="7373" />
 
-&nbsp;
+
+
 
 Spring is the second most popular season for the trekking in Nepal. This is the favorable season to climb both high peaks and low peaks in Nepal. Comfortable weather and decent temperatures are the highlight features of trekking in Nepal in Spring.
 
