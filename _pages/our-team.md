@@ -4,7 +4,8 @@ post_title: Our Team
 author: peranakan francis
 post_excerpt: ""
 layout: page
-permalink: https://trekkingtopnepal.com/our-team/
+permalink: >
+  https://trekkingtopnepal.com/about-us/our-team/
 published: true
 post_date: 2018-09-29 10:58:26
 ---
