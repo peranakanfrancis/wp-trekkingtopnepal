@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2019-06-24 09:42:04
 ---
-[caption id="attachment_8625" align="aligncenter" width="300"]<img class="size-medium wp-image-8625" src="https://trekkingtopnepal.com/wp-content/uploads/2019/06/IMG_3059-01-300x200.jpeg" alt="Majestic Mardi Himal" width="300" height="200" /> A Nepali nomad, [<a href="https://www.youtube.com/channel/UCXAEisvouf1Tp5fuoKJUrgw"><strong>Ghumante</strong></a>] points towards the incredibly stunning tail of Mt. Fishtail, en route to Mardi Base Camp.[/caption]
 <h3><strong>Jaunt to Majestic Mardi; A Mini yet mystical break towards the proximity of </strong><a href="http://www.oshoadventure.com/">Annapurna Region</a><strong>, Nepal. </strong></h3>
 Are you somebody who wish to get closer to the mountains but don't have enough time in your comfort zone?  Or you want to complete the most jaw-dropping trekking point in entire Nepal within one week. Then, the Trek to Mardi Himal is the perfect feed to your quest. Annapurna South, Himchuli, and Mt. Fishtail peaks welcome trekkers while hiking to the Mardi Himal Base Camp.  Yes! Believe me. You’ll find them standing still, right in front of you and your companions!
 
@@ -33,7 +32,7 @@ Forest Camp, as the name indicates, it literally justices for its name lies at a
 
 Moving ahead on the jaunt to Mardi Himal, we can see a small lodge atop of hillock called Badal Danda [Cloud Hill] (meaning hillock amongst clouds), with Mount Annapurna South levitating over it. There lies Mt. Fishtail, shining in its full glory to the right of Badal Danda.
 
-[caption id="attachment_8626" align="aligncenter" width="300"]<img class="wp-image-8626 size-medium" src="https://trekkingtopnepal.com/wp-content/uploads/2019/06/20180407_130003_HDR-01-300x194.jpeg" alt="Caravan of Hills and Himalayas." width="300" height="194" /> Caravans of hills and mountainous terrains. Pack animals (mules, donkeys, horses &amp; yaks) always have to hustle hard and get their job done irrespective of their age and energy level.[/caption]
+<img class="wp-image-8626 size-medium" src="https://trekkingtopnepal.com/wp-content/uploads/2019/06/20180407_130003_HDR-01-300x194.jpeg" alt="Caravan of Hills and Himalayas." width="300" height="194" />
 
 The wandering clouds and floating cloud lakes never stop amusing its guests. Sad as well as exciting at the same time because all of sudden, we can be lost amid the fog. Playing hide and seek with Mountains and trails facilitated by the clouds’ random motion those staggering windows of nature, and the beautiful views of Himalayan ranges get behind the eyesight. That's the reason people have named it the hillock as Badal Danda. Exhilarating is that metamorphosis right in front of one's vision in an iota of seconds!
 
