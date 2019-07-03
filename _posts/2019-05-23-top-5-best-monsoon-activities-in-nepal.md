@@ -13,7 +13,7 @@ Monsoon generally comprises the month of June, July, and August in Nepal. There 
 
 However, I can assure you that there are so many appealing things to do in Nepal in Monsson. Due to variation in geographical structures, the adventure activities in Nepal can be done all-year-around.
 
-<em>Here I would like to share<strong> five of the best monsoon activities</strong> that can be done during the rainy  season.</em>
+<em>Here I would like to share<strong> five of the best monsoon activities</strong> that can be done during the rainy season.</em>
 <h2><strong>1) White Water Rafting in Trishuli</strong></h2>
 <img class="alignnone size-full wp-image-1298" src="https://res.cloudinary.com/trekkingtopnepal/image/upload/v1544804164/rafting-444743_vahge4.jpg" alt="" width="1920" height="1277" data-wp-pid="1298" />
 
