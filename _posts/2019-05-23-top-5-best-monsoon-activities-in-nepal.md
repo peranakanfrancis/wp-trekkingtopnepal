@@ -135,6 +135,6 @@ Everest Short Trek starts with an exhilarating Himalayan flight towards Lukla fr
  	<li>Bring waterproof bags for your electronics</li>
  	<li>Be patient</li>
 </ul>
-So when you are visiting Nepal? It's good news that <a href="https://www.nepalvisit2020.com/">#visitNepal2020</a> is drawing near. You can visit Nepal this monsoon and at any time of the year. We want you to remember during your Nepal trip or when you are ready to visit. We look forward to hosting you and your loved ones at <a href="http://www.hoteldomhimalaya.com">Dom Himalaya</a>, Kathmandu.
+So when you are visiting Nepal and undergoing all the above-mentioned <em><strong>five of the best monsoon activities</strong></em>? It's good news that <a href="https://www.nepalvisit2020.com/">#visitNepal2020</a> is drawing near. You can visit Nepal this monsoon and at any time of the year. We want you to remember during your Nepal trip or when you are ready to visit. We look forward to hosting you and your loved ones at <a href="http://www.hoteldomhimalaya.com">Dom Himalaya</a>, Kathmandu.
 
 Explore Nepal with <a href="http://www.trekkingtopnepal.com">Trekking Top Nepal</a>!
