@@ -5,7 +5,7 @@ author: khim.chhetri
 post_excerpt: ""
 layout: post
 permalink: >
-  https://trekkingtopnepal.com/2019/06/24/moderate-trek-to-mardi-base-camp-the-most-scenic-trek-in-nepal/
+  http://trekkingtopnepal.com/2019/06/24/moderate-trek-to-mardi-base-camp-the-most-scenic-trek-in-nepal/
 published: true
 post_date: 2019-06-24 09:42:04
 ---
