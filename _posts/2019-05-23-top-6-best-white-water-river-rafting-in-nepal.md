@@ -1,5 +1,5 @@
 ---
-ID: 7940
+ID: 8455
 post_title: >
   Top 6 Best White Water River Rafting in
   Nepal
@@ -7,7 +7,7 @@ author: Manisha Bagale
 post_excerpt: ""
 layout: post
 permalink: >
-  https://trekkingtopnepal.com/2019/05/23/top-6-best-white-water-river-rafting-in-nepal/
+  http://trekkingtopnepal.com/2019/05/23/top-6-best-white-water-river-rafting-in-nepal/
 published: true
 post_date: 2019-05-23 14:05:17
 ---
