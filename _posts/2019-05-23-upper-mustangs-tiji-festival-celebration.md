@@ -1,11 +1,11 @@
 ---
-ID: 8030
+ID: 8460
 post_title: 'Upper Mustang&#8217;s Tiji Festival Celebration'
 author: Manisha Bagale
 post_excerpt: ""
 layout: post
 permalink: >
-  https://trekkingtopnepal.com/2019/05/23/upper-mustangs-tiji-festival-celebration/
+  http://trekkingtopnepal.com/2019/05/23/upper-mustangs-tiji-festival-celebration/
 published: true
 post_date: 2019-05-23 13:45:57
 ---
