@@ -5,7 +5,7 @@ author: khim.chhetri
 post_excerpt: ""
 layout: post
 permalink: >
-  https://trekkingtopnepal.com/2019/07/03/how-can-you-contribute-to-visit-nepal-2020-campaign-as-a-traveler-visitnepal2020-be-a-part-of-it/
+  http://trekkingtopnepal.com/2019/07/03/how-can-you-contribute-to-visit-nepal-2020-campaign-as-a-traveler-visitnepal2020-be-a-part-of-it/
 published: true
 post_date: 2019-07-03 11:23:42
 ---
