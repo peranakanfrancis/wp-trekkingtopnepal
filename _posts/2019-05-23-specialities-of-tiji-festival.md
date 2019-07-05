@@ -1,11 +1,11 @@
 ---
-ID: 8024
+ID: 8459
 post_title: Specialities of Tiji Festival
 author: Manisha Bagale
 post_excerpt: ""
 layout: post
 permalink: >
-  https://trekkingtopnepal.com/2019/05/23/specialities-of-tiji-festival/
+  http://trekkingtopnepal.com/2019/05/23/specialities-of-tiji-festival/
 published: true
 post_date: 2019-05-23 13:48:15
 ---
