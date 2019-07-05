@@ -1,11 +1,11 @@
 ---
-ID: 8022
+ID: 8458
 post_title: What is Tiji Festival?
 author: Manisha Bagale
 post_excerpt: ""
 layout: post
 permalink: >
-  https://trekkingtopnepal.com/2019/05/23/what-is-tiji-festival/
+  http://trekkingtopnepal.com/2019/05/23/what-is-tiji-festival/
 published: true
 post_date: 2019-05-23 13:49:36
 ---
